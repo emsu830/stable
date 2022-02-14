@@ -1,4 +1,5 @@
-# Submitter: sue4(Su, Emily)
+# Author: Emily Su
+# Last Revised: February 2022
 
 import prompt
 import goody
